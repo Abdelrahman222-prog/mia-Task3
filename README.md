@@ -15,8 +15,8 @@ In order to run this file,you need just:
  * Visual studio code with Code Runner ***Extension***
  * Take care to follow the exact instructions asked
     * For example :
-          *When asked ***Enter task with its order number*** so enter **for example**:1-Get new tires from Luigi
-
+        * When asked ***Enter task with its order number*** so enter **for example**:1-Get new tires from Luigi
+* choose ***2. View my to-do list*** when you are unsure of the order number of the task
 #### **CHALLENGE** that faced me
 <mark>Trying to add the bonus task which states:
 > If your program saves the to-do list to a file so it's still
